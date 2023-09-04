@@ -38,7 +38,7 @@ export default function Home() {
           </li>
         </ul>
       </section>
-      <section className="col-span-1">
+      <section className="col-span-2">
         {isLoading ? (
           <LoadingSpinner />
         ) : (
